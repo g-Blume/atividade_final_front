@@ -1,0 +1,72 @@
+.header1{
+    background-color: blue;
+    padding: 400px 200px;
+    width: 100px;
+    text-align: center;
+}
+
+.img1{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: -50px;
+}
+
+.sobre{
+    color: white;
+}
+
+.button{
+    background-color: blue;
+    color: white;
+    border-style:hidden;
+    cursor: pointer;
+    transition: all 400ms ease;
+}
+
+.main{
+    margin-left: 600px;
+}
+
+.nome{
+    margin-top: -600px;
+}
+
+.dados{
+    margin-left: 600px;
+}
+
+.sobrenome{
+    color: blue;
+}
+
+.email{
+    background-color: white;
+    color: blue;
+    border-style: hidden;
+}
+
+.linkedin{
+    height: 50px;
+    width: 100px;
+}
+
+.git{
+    height: 50px;
+    width: 100px;
+}
+
+.insta{
+    height: 50px;
+    width: 100px;
+}
+.facebook{
+    height: 50px;
+    width: 50px;
+    margin-left: 25px;
+}
+.texto{
+    margin-left: 600px;
+    margin-top: -600px;
+}
+ 
